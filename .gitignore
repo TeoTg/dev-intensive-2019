@@ -1,3 +1,5 @@
+#Alex Li
+
 # Gradle files
 .gradle/
 
@@ -5,7 +7,7 @@
 *.iml
 
 # OS-specific files
-.DS_Store
+.DS_StoreA
 .DS_Store?
 ._*
 .Spotlight-V100
